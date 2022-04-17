@@ -1,8 +1,5 @@
-*.gem
-.bundle
-.ruby-version
-.jekyll-cache
-.sass-cache
 _site
-Gemfile.lock
+.sass-cache
 node_modules
+Gemfile.lock
+*.gem
